@@ -1,3 +1,13 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
+.rounded-circle{
+    border:1px;
+    border-radius:50%;
+    width:260px;
+    height:260px;
+    }
+
+    #header {
+        color: gray
+    }
